@@ -1,0 +1,928 @@
+{ 
+	"wallpapers": 
+		[
+			{
+				"name": "ShotA",
+				"author": "Someone",
+				"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg"
+			},
+			{
+				"name": "ShotB",
+				"author": "Someone",
+				"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
+				"dimensions": "3200x2560"
+			},
+			{
+				"author": "Someone",
+				"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
+				"name": "ShotC",
+				"dimensions": "1280x720",
+				"copyright": "Credits to its creator"
+			},
+			{
+			    "name": "Wallsplash 1",
+			    "author": "wallsplash",
+			    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
+			    "dimensions": "3200x2560",
+			    "copyright": "Free (do whatever you want)"
+			},
+			{
+			    "name": "Wallsplash 2",
+			    "author": "wallsplash",
+			    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
+			    "dimensions": "3200x2560",
+			    "copyright": "Free (do whatever you want)"
+			},
+			{
+			    "name": "Wallsplash 3",
+			    "author": "wallsplash",
+			    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png",
+			    "dimensions": "3200x2560",
+			    "copyright": "Free (do whatever you want)"
+			},
+			{
+			    "name": "Wallsplash 4",
+			    "author": "wallsplash",
+			    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
+			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
+			    "dimensions": "3200x2560",
+			    "copyright": "Free (do whatever you want)"
+			},
+			{
+			    "name": "Wallsplash 5",
+			    "author": "wallsplash",
+			    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
+			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
+			    "dimensions": "3200x2560",
+			    "copyright": "Free (do whatever you want)"
+			},
+			{
+			    "name": "Wallsplash 6",
+			    "author": "wallsplash",
+			    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_f.png",
+			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
+			    "dimensions": "3200x2560",
+			    "copyright": "Free (do whatever you want)"
+			},
+			{
+			    "name": "Wallsplash 7",
+			    "author": "wallsplash",
+			    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
+			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_g.png",
+			    "dimensions": "3200x2560",
+			    "copyright": "Free (do whatever you want)"
+			},
+			{
+			    "name": "Wallsplash 8",
+			    "author": "wallsplash",
+			    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
+			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_h.png",
+			    "dimensions": "3200x2560",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "guava",
+			    "author": "unknown",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/(173).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "splashi_car",
+			    "author": "unknown",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/(185).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "chicks",
+			    "author": "unknown",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/(189).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "pokeball",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/(194).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "white kitty",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/(199).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "eagle",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/(200).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "chita",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/(209).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+             },
+			{
+			    "name": "flower",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/(36).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "flower 2",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/(5).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Butterfly",
+			    "author": "",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/(60).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "shall",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/0060.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "sunflower",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/0074.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "flower 3",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/1%20(37).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "city",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/10k%20Subs%20special%20Gift%20by%20Praful%20Editx%20(12).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)" 
+                        },
+			{
+			    "name": "blur",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/10k%20Subs%20special%20Gift%20by%20Praful%20Editx%20(13).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "graveyard",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/10k%20Subs%20special%20Gift%20by%20Praful%20Editx%20(25).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "jungle",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/17636.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "tree",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/17642.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Lamborgini",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/2013_lamborghini_aventador_lp700_4-1680x1050.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Light tower",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/22-Tapash%20Editz.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Earth Graphic",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/3D%20(9)%201980x1080.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+             },
+			{
+			    "name": "Nature Landscape",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/3d_photoshop_nature_landscape_15285_3840x2160.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Flower 3",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/4563876.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Ghost Rider",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/519f14b47cf3e21249.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Wolverine",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/51a1d370e0b5436972.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "mansoon",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/5351fc4a581b2d2f397ca34e4186823b.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "flower",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/539.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Einstien",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/5rtdIjc-albert-einstein-wallpaper.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)" 
+                       },
+			{
+			    "name": "call of duty ww2",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/7346.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "apple",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/737c04755a7f6b60d09af15befd2786a2.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Flawer 5",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/8686.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "animation",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/8686.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Mansoon 2",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/Amazing_Fanracy_Rainy_Monsoon_Season_Wallpaper.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Bike",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/CB%20BG%20BY%20S.R.%20EDITING%20(7).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "car",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/Cars%20(67).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+             },
+			{
+			    "name": "Car 2",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/Cars%20(70).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "creative graphic",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/Creative%20%26%20Graphics%20(39).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Panda",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/Creative%20%26%20Graphics%20(45).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Pirate Panda",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/Creative%20%26%20Graphics%20(45).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "flower 5",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/Flowers%20(5).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "flower 6",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/Flowers%20(6).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Assisan Creeds",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/Games%20(16).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)" 
+            },
+			{
+			    "name": "Graphic 3",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/Games%20(98).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "pencil",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/General%20(37).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Jack Dweniss",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/General%20(71).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "God of war",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/God-of-War-Wallpaper-HD1.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Cars 4",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/God-of-War-Wallpaper-HD1.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "snow",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/HQ%20Pixs%20Blog%20(41).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Wheat",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/HQ%20Pixs%20Blog%20(42).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+             },
+			{
+			    "name": "Monster",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/Monster%20(37).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "batman joker",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/Movies%20%26%20TV%20Shows%20(10).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Joker 2",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/Movies%20%26%20TV%20Shows%20(11).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Why so seroius",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/Movies%20%26%20TV%20Shows%20(9).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Leaf",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/Other%20(11).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Hell",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/Praful%20Editx%20(47)no%20logo.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "theif",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/Thief-Wallpaper-2014-Single-Player-Games-for-PS4-Wallpaper.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+                        },
+			{
+			    "name": "Nature 3",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/WwW.Wallpapers2012.com%20%20-%20%2001.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Nature 4",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/WwW.Wallpapers2012.com%20%20-%20%2001.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Nature 5",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/WwW.Wallpapers2012.com%20%20-%20%2007.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "nature 6",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/WwW.Wallpapers2012.com%20%20-%20%2025.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "nature 7",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/WwW.Wallpapers2012.com%20%20-%20%2028.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "cherry blossem",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/WwW.Wallpapers2012.com%20%20-%20%2046.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "nature 8",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/WwW.Wallpapers2012.com%20%20-%20%2047.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+             },
+			{
+			    "name": "Rocks",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/WwW.Wallpapers2012.com%20%20-%20%2049.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "naTURE 9",
+			    "author": "SOMEONE",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/WwW.Wallpapers2012.com%20%20-%20%2057.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Snow road",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/WwW.Wallpapers2012.com%20%20-%20%2064.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "nature 10",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/WwW.Wallpapers2012.com%20%20-%20%2069.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Einstine Quotes",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/Z04TeLQ-albert-einstein-wallpaper.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "creed",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/a_creed_52.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Nature 11",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/abstract-108v.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)" 
+            },
+			{
+			    "name": "Graphics 4",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/abstract-248a.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Nature 12",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/allalong1920.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Car 7",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/aston_m_dbr9-71-1600.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Tiger",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/big_tiger-5120x2880.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "BMW Car",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/bmw_cars_26.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "an it run crysis",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/crysis_3_15.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Berlin Tower",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/fernsehturm_berlin_tv_tower_germany-750x1334.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Creed Wallpaper",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/game-Assassins-Creed-Wallpapers-HD.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "GOD2",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/god04.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "GOD of war 2",
+			    "author": "someone" ,
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/god_of_war_2_game-HD.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "nature 15",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/hd-wallpaper-35.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Graphic 56",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/hd-wallpaper-8.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Turtle",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/img19.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Windoes 7",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/img20.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)" 
+            },
+			{
+			    "name": "chi chi",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/img21.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "windows 8",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/img22.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "windows 8.1",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/img23.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Laughing baby",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/img24.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Super lamborgini",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/lamborghini-super-car-wallpaper-hd-2015%20-%20Copy.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "lamborgini india gate",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/lamborghini_20.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Hulk",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/love-quotes-hulk-green-marvel-abstract-hd-jootix-wallpaper-with.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+             },
+			{
+			    "name": "Nfs",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/nfs9.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Hot Persuit",
+			    "author": "Someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/nfs_hot_pursuit_2010-HD.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "NFS r2",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/nfs_r_2.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "leaf 2",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/photography-78a.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Creed 4",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/rogue_23.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "spider robot",
+			    "author": "someone",
+			    "url": "https://github.com/einstine1998/karma-wallpapers/blob/master/spider_robot-wallpaper-1920x1080.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Einstien street art",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/street_art_5-wallpaper-1920x1080.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)" 
+            },
+			{
+			    "name": "Natuer 21",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/tronco-wallpaper-1920x1080.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "sea shell 2",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/w081.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Meter",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/wall%20(6).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Mountain",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/wallpaper-4k-images-4.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Wolf",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/wolf_predator_photoshop_art_116912_1920x1080.jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Paris",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/www.Hass%20Hasib.com%20(131).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+            },
+			{
+			    "name": "Paris 2",
+			    "author": "someone",
+			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/www.Hass%20Hasib.com%20(16).jpg",
+			    "thumbnail": "",
+			    "dimensions": "",
+			    "copyright": "Free (do whatever you want)"
+     
+            }
+		]
+}
