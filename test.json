@@ -1,6 +1,6 @@
 { 
-	"wallpapers":          [ 
-		
+	"wallpapers":          
+	        [
                        {
 				"name": "ShotA",
 				"author": "Someone",
@@ -110,7 +110,7 @@
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
 			}
-	]
+	     ]
 }
                 
                 
