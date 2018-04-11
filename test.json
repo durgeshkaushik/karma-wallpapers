@@ -1,7 +1,7 @@
 { 
-	"wallpapers": 
-		[
-			{
+	"wallpapers":          [ 
+		
+                       {
 				"name": "ShotA",
 				"author": "Someone",
 				"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg"
@@ -82,35 +82,38 @@
 			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_h.png",
 			    "dimensions": "3200x2560",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
+			
 			    "name": "guava",
 			    "author": "unknown",
 			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/(173).jpg",
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
-			    "name": "splashi_car",
+			
+			   "name": "splashi_car",
 			    "author": "unknown",
 			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/(185).jpg",
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
-			    "name": "chicks",
+			
+			   "name": "chicks",
 			    "author": "unknown",
 			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/(189).jpg",
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-                
-                
-                
-                
-                
 			}
-		]
+	]
 }
+                
+                
+                
+                
+				
