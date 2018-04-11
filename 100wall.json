@@ -1,6 +1,6 @@
 { 
-	"wallpapers": 
-		[
+	"wallpapers":         [
+		      
 			{
 				"name": "ShotA",
 				"author": "Someone",
@@ -82,7 +82,7 @@
 			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_h.png",
 			    "dimensions": "3200x2560",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "guava",
 			    "author": "unknown",
@@ -90,7 +90,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "splashi_car",
 			    "author": "unknown",
@@ -98,7 +98,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "chicks",
 			    "author": "unknown",
@@ -106,7 +106,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "pokeball",
 			    "author": "someone",
@@ -114,7 +114,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "white kitty",
 			    "author": "someone",
@@ -122,7 +122,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "eagle",
 			    "author": "someone",
@@ -130,7 +130,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "chita",
 			    "author": "someone",
@@ -138,7 +138,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-             },
+                        },
 			{
 			    "name": "flower",
 			    "author": "someone",
@@ -146,7 +146,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "flower 2",
 			    "author": "someone",
@@ -154,7 +154,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Butterfly",
 			    "author": "",
@@ -162,7 +162,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "shall",
 			    "author": "someone",
@@ -170,7 +170,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "sunflower",
 			    "author": "someone",
@@ -178,7 +178,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "flower 3",
 			    "author": "someone",
@@ -186,7 +186,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "city",
 			    "author": "someone",
@@ -202,7 +202,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "graveyard",
 			    "author": "someone",
@@ -210,7 +210,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "jungle",
 			    "author": "someone",
@@ -218,7 +218,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "tree",
 			    "author": "someone",
@@ -226,7 +226,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Lamborgini",
 			    "author": "someone",
@@ -234,7 +234,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Light tower",
 			    "author": "someone",
@@ -242,7 +242,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Earth Graphic",
 			    "author": "someone",
@@ -250,7 +250,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-             },
+                        },
 			{
 			    "name": "Nature Landscape",
 			    "author": "someone",
@@ -258,7 +258,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Flower 3",
 			    "author": "someone",
@@ -266,7 +266,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Ghost Rider",
 			    "author": "someone",
@@ -274,7 +274,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Wolverine",
 			    "author": "someone",
@@ -282,7 +282,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "mansoon",
 			    "author": "someone",
@@ -290,7 +290,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "flower",
 			    "author": "someone",
@@ -298,7 +298,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Einstien",
 			    "author": "someone",
@@ -314,7 +314,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "apple",
 			    "author": "someone",
@@ -322,7 +322,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Flawer 5",
 			    "author": "someone",
@@ -330,7 +330,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "animation",
 			    "author": "someone",
@@ -338,7 +338,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Mansoon 2",
 			    "author": "someone",
@@ -346,7 +346,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Bike",
 			    "author": "someone",
@@ -354,7 +354,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "car",
 			    "author": "someone",
@@ -362,7 +362,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-             },
+                        },
 			{
 			    "name": "Car 2",
 			    "author": "someone",
@@ -370,7 +370,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "creative graphic",
 			    "author": "someone",
@@ -378,7 +378,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Panda",
 			    "author": "someone",
@@ -386,7 +386,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Pirate Panda",
 			    "author": "someone",
@@ -394,7 +394,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "flower 5",
 			    "author": "someone",
@@ -402,7 +402,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "flower 6",
 			    "author": "someone",
@@ -410,7 +410,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Assisan Creeds",
 			    "author": "someone",
@@ -418,7 +418,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)" 
-            },
+                        },
 			{
 			    "name": "Graphic 3",
 			    "author": "someone",
@@ -426,7 +426,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "pencil",
 			    "author": "someone",
@@ -434,7 +434,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Jack Dweniss",
 			    "author": "someone",
@@ -442,7 +442,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "God of war",
 			    "author": "someone",
@@ -450,7 +450,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Cars 4",
 			    "author": "someone",
@@ -458,7 +458,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "snow",
 			    "author": "someone",
@@ -466,7 +466,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Wheat",
 			    "author": "someone",
@@ -474,7 +474,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-             },
+                        },
 			{
 			    "name": "Monster",
 			    "author": "someone",
@@ -482,7 +482,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "batman joker",
 			    "author": "someone",
@@ -490,7 +490,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Joker 2",
 			    "author": "someone",
@@ -498,7 +498,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Why so seroius",
 			    "author": "someone",
@@ -506,7 +506,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Leaf",
 			    "author": "someone",
@@ -514,7 +514,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Hell",
 			    "author": "someone",
@@ -522,7 +522,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "theif",
 			    "author": "someone",
@@ -538,7 +538,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Nature 4",
 			    "author": "someone",
@@ -546,7 +546,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Nature 5",
 			    "author": "someone",
@@ -554,7 +554,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "nature 6",
 			    "author": "someone",
@@ -562,7 +562,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "nature 7",
 			    "author": "someone",
@@ -570,7 +570,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "cherry blossem",
 			    "author": "someone",
@@ -578,7 +578,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "nature 8",
 			    "author": "someone",
@@ -586,7 +586,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-             },
+                        },
 			{
 			    "name": "Rocks",
 			    "author": "someone",
@@ -594,7 +594,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "naTURE 9",
 			    "author": "SOMEONE",
@@ -602,7 +602,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Snow road",
 			    "author": "someone",
@@ -610,7 +610,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "nature 10",
 			    "author": "someone",
@@ -618,7 +618,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Einstine Quotes",
 			    "author": "someone",
@@ -626,7 +626,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "creed",
 			    "author": "someone",
@@ -634,7 +634,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Nature 11",
 			    "author": "someone",
@@ -642,7 +642,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)" 
-            },
+                        },
 			{
 			    "name": "Graphics 4",
 			    "author": "someone",
@@ -650,7 +650,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Nature 12",
 			    "author": "someone",
@@ -658,7 +658,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Car 7",
 			    "author": "someone",
@@ -666,7 +666,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Tiger",
 			    "author": "someone",
@@ -674,7 +674,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "BMW Car",
 			    "author": "someone",
@@ -682,7 +682,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "an it run crysis",
 			    "author": "someone",
@@ -690,7 +690,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Berlin Tower",
 			    "author": "someone",
@@ -698,7 +698,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Creed Wallpaper",
 			    "author": "someone",
@@ -706,7 +706,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "GOD2",
 			    "author": "someone",
@@ -714,7 +714,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "GOD of war 2",
 			    "author": "someone" ,
@@ -722,7 +722,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "nature 15",
 			    "author": "someone",
@@ -730,7 +730,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Graphic 56",
 			    "author": "someone",
@@ -738,7 +738,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Turtle",
 			    "author": "someone",
@@ -746,7 +746,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Windoes 7",
 			    "author": "someone",
@@ -754,7 +754,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)" 
-            },
+                        },
 			{
 			    "name": "chi chi",
 			    "author": "someone",
@@ -762,7 +762,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "windows 8",
 			    "author": "someone",
@@ -770,7 +770,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "windows 8.1",
 			    "author": "someone",
@@ -778,7 +778,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Laughing baby",
 			    "author": "someone",
@@ -786,7 +786,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Super lamborgini",
 			    "author": "someone",
@@ -794,7 +794,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "lamborgini india gate",
 			    "author": "someone",
@@ -802,7 +802,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Hulk",
 			    "author": "someone",
@@ -810,7 +810,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-             },
+                        },
 			{
 			    "name": "Nfs",
 			    "author": "someone",
@@ -818,7 +818,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Hot Persuit",
 			    "author": "Someone",
@@ -826,7 +826,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "NFS r2",
 			    "author": "someone",
@@ -834,7 +834,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "leaf 2",
 			    "author": "someone",
@@ -842,7 +842,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Creed 4",
 			    "author": "someone",
@@ -850,7 +850,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "spider robot",
 			    "author": "someone",
@@ -858,15 +858,15 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Einstien street art",
 			    "author": "someone",
 			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/street_art_5-wallpaper-1920x1080.jpg",
 			    "thumbnail": "",
 			    "dimensions": "",
-			    "copyright": "Free (do whatever you want)" 
-            },
+	 		    "copyright": "Free (do whatever you want)" 
+                        },
 			{
 			    "name": "Natuer 21",
 			    "author": "someone",
@@ -874,7 +874,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "sea shell 2",
 			    "author": "someone",
@@ -882,7 +882,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Meter",
 			    "author": "someone",
@@ -890,15 +890,15 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
-			{
+                        },
+		 	{
 			    "name": "Mountain",
 			    "author": "someone",
 			    "url": "https://raw.githubusercontent.com/einstine1998/karma-wallpapers/master/wallpaper-4k-images-4.jpg",
 			    "thumbnail": "",
 			    "dimensions": "",
-			    "copyright": "Free (do whatever you want)"
-            },
+	 		    "copyright": "Free (do whatever you want)"
+                        },
 			{
 			    "name": "Wolf",
 			    "author": "someone",
@@ -906,7 +906,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Paris",
 			    "author": "someone",
@@ -914,7 +914,7 @@
 			    "thumbnail": "",
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
-            },
+                        },
 			{
 			    "name": "Paris 2",
 			    "author": "someone",
@@ -923,6 +923,6 @@
 			    "dimensions": "",
 			    "copyright": "Free (do whatever you want)"
      
-            }
+                        }
 		]
 }
